@@ -1,9 +1,9 @@
 # shouldSendSameSiteNone
-this package shift whith this little help function
+this php package ship with this little help function
 ```
 \Uvii\SameSiteNone::isSafe($useragent))
 ```
-_return_ bool to that indicate if the $useragent is safe for set cookie with SameSite=None
+__return__ bool to that indicate if the $useragent is safe for set cookie with SameSite=None
 
 # Note
 The code is implement by this [pseudocode post](https://www.chromium.org/updates/same-site/incompatible-clients)

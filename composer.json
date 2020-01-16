@@ -1,6 +1,6 @@
 {
     "name": "uviigideon/should-send-same-site-non",
-    "description": "test given user agent and return should send same site none",
+    "description": "test given useragent and return should send same site none",
     "keywords": ["samesite", "none", "thirdparty cookie"],
     "type": "library",
     "license": "MIT",
@@ -10,7 +10,6 @@
             "email": "uviigideon@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require-dev": {
         "phpunit/phpunit": "^8"
     },
